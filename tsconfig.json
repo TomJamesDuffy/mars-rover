@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true
+  },
+  "include": ["src/lib/simulator/index.ts", "src/*.ts", "src/**/*.ts"]
+}
